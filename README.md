@@ -6,7 +6,9 @@ or Bioconductor.
 It contains tar.gz and zip files for: 
 
 CGHtest: Statistical permutation tests for called aCGH data
+
 dnaCplusT (with Kyung In Kim): Clustering plus hierarchical testing for aCGH data
+
 NoWaves: Smoothing waves for tumor aCGH profiles
 
 
